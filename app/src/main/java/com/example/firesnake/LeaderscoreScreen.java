@@ -83,6 +83,9 @@ public class LeaderscoreScreen implements Screen {
         font.draw(spriteBatch, "RESTART", 290, 430);
         font.draw(spriteBatch,nickname + ": " + score , 120,700);
 
+        font.getData().setScale((float)4,(float)3);
+        font.draw(spriteBatch, "Dane zostaly pobrane\npowinny wyswietlic sie w tym miejscu\nmozna je zobaczyc w logu", 120, 1585);
+
         spriteBatch.end();
     }
 
