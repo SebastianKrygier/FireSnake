@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "944770003302",
+    "firebase_url": "https://snake-f5a28-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "snake-f5a28",
+    "storage_bucket": "snake-f5a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944770003302:android:f652726aff303a346418a7",
+        "android_client_info": {
+          "package_name": "com.example.firesnake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944770003302-nnf091s6jm4u6sqsk8g29ceuqtcbkgak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXp2md23MRIl9J56DTwqkHoMyN7Rf33I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944770003302-nnf091s6jm4u6sqsk8g29ceuqtcbkgak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944770003302:android:9ae55c12e07e68736418a7",
+        "android_client_info": {
+          "package_name": "com.sebastiankrygier.snakegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944770003302-nnf091s6jm4u6sqsk8g29ceuqtcbkgak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXp2md23MRIl9J56DTwqkHoMyN7Rf33I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944770003302-nnf091s6jm4u6sqsk8g29ceuqtcbkgak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
